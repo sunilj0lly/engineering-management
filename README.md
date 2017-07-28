@@ -36,3 +36,13 @@ https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 > Promoting managers from within means you get those razor sharp skills from the people who just built the thing. That gives them credibility, while they struggle with their newly achieved incompetence in a different role. That’s one of the only ways you can achieve the temporary glory of a hybrid manager+tech lead. This is an unstable combination, because your engineering skills and context-sharpness are decaying the longer you do it.
 
 As someone who has bounced between programmer/management roles in my career, this article resonates with my experiences. The further away from coding you are, the less technically minded/able you are - however the better a manager you'll be. Then the pendulum swings back the other way as you get back into programming and your management skills get rusty. This post argues that this isn't a bad thing.
+
+---
+
+### Elon Musk: The Secret Behind His Insane Drive
+https://medium.com/personal-growth/elon-musk-how-to-sustain-motivation-b0ddfebe3a5e
+>The surest way to kill motivation is by attempting to tackle something beyond our capabilities. Easy enough to avoid, right? Not always. In fact, most long-term goals require skills that we don’t have when we set the goals ... The initial mission of Tesla, Musk’s sustainable energy company, was "to accelerate the advent of sustainable transport by bringing compelling mass market electric cars to market as soon as possible." ... It’s a lofty goal, and it’s one that was beyond the scope of the skills and resources he had when he began. Everybody thought he was insane. That didn’t stop him, though. He broke it down into three smaller parts.
+
+This post talks about how Elon Musk's grand visions are broken down into smaller parts and then a focus on trials and assessing failure pushes the project towards the bigger goal.
+
+
