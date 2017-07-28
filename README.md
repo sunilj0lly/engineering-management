@@ -17,3 +17,9 @@ https://docs.google.com/document/u/1/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALm
 >Since 2013-ish, I’ve been keeping a collection of links and notes on the broad topics of “leadership” and “management” on this very Google doc. I shared it with friends who are transitioning to management roles but kept it private to the world at large. Then I figured I should “open source” it. 
 
 This rough and ready Google Doc looks terrible but contains excellent summaries of articles related to leadership and management. I often read the notes on 1:1s each week to remind me how to run mine more effectively.
+
+### How to Communicate Effectively as an Engineer Without Resorting to Management Speak
+https://www.tombartel.de/blog/communicate-effectively-without-management-speak/
+>Engineers like to be concise, but a concise communication style is not always the most effective one. Being a bit more verbose can increase clarity, emphasize important points, and create an atmosphere that allows for more creative exploration.
+
+This opened my eyes to something I've been guilty of my entire career: describing things too concisely and expecting people to understand. There are some excellent compare and contrast examples of how a little padding, energy and inspiration can communicate your message more clearly.
