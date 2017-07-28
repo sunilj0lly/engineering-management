@@ -68,3 +68,11 @@ https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job
 >To achieve the same amount of work in less time, we have to make sure that we’re all working on the right things and that everyone is clear on their part in our combined success ... One of the biggest challenges is that job descriptions are really vague, and don’t help someone clearly identify what work they need to do—like actual tasks they are expected to accomplish. And even if you’ve defined it clearly, roles change as the needs of a business change.
 
 It seems obvious after reading this post, but defining what do actually do at work is the first step in identifying where we should focus our attention. This post suggests a great use of mind maps to identify your repsonsibilites and then create a plan on where to focus.
+
+---
+
+### A Growth Plan for Designers
+https://medium.com/we-build-vend/a-growth-plan-for-designers-21c8f287e63a
+> Knowing where you are, what you have to focus on next, and what you need to achieve to reach the "next step" are difficult questions to answer, but also some of the most important questions a manager must help answer ...  The visual expression of ... competencies help with this. They literally create a shape for each [person], and a shape for each role. They help [people] determine which skillsets they need to develop, to "fill out" the roles they want to be in. And ... they provide a roadmap for how that designer goes about getting there.
+
+I've seen a few competency frameworks in my career, but this one from Vend has a striking visual approach that helps to show areas of potential growth. The post also reiterates the importance of having a system so you can understand what your "next step" should be.
