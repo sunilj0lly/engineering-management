@@ -55,9 +55,16 @@ Life has its ups and downs. How we help people through difficulties times is a r
 
 ---
 
-## Listening is The Job
+### Listening is The Job
 http://boz.com/articles/listening-is-the-job.html
 > People are much better at adding channels to consume than they are about removing them, but both are equally important. There is too much information and not enough time to consume it all. Take time to assess your incoming channels, and ask yourself how likely each is to provide you with critical information. Prune channels aggressively when you find you are spending time but rarely getting value.
 
 We can get bombarded with information at work and this post is an excellent reminder that we need to spend time working out how to best manage that information.
 
+---
+
+### Reducing hours by focusing your job
+https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job
+>To achieve the same amount of work in less time, we have to make sure that we’re all working on the right things and that everyone is clear on their part in our combined success ... One of the biggest challenges is that job descriptions are really vague, and don’t help someone clearly identify what work they need to do—like actual tasks they are expected to accomplish. And even if you’ve defined it clearly, roles change as the needs of a business change.
+
+It seems obvious after reading this post, but defining what do actually do at work is the first step in identifying where we should focus our attention. This post suggests a great use of mind maps to identify your repsonsibilites and then create a plan on where to focus.
