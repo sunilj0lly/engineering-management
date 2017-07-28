@@ -23,3 +23,9 @@ https://www.tombartel.de/blog/communicate-effectively-without-management-speak/
 >Engineers like to be concise, but a concise communication style is not always the most effective one. Being a bit more verbose can increase clarity, emphasize important points, and create an atmosphere that allows for more creative exploration.
 
 This opened my eyes to something I've been guilty of my entire career: describing things too concisely and expecting people to understand. There are some excellent compare and contrast examples of how a little padding, energy and inspiration can communicate your message more clearly.
+
+### The Engineer/Manager Pendulum
+https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
+> Promoting managers from within means you get those razor sharp skills from the people who just built the thing. That gives them credibility, while they struggle with their newly achieved incompetence in a different role. That’s one of the only ways you can achieve the temporary glory of a hybrid manager+tech lead. This is an unstable combination, because your engineering skills and context-sharpness are decaying the longer you do it.
+
+As someone who has bounced between programmer/management roles in my career, this article resonates with my experiences. The further away from coding you are, the less technically minded/able you are - however the better a manager you'll be. Then the pendulum swings back the other way as you get back into programming and your management skills get rusty. This post argues that this isn't a bad thing.
