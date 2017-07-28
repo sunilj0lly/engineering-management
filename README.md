@@ -52,3 +52,12 @@ https://hbr.org/2017/06/making-your-workplace-safe-for-grief
 > many companies lack norms or policies for dealing with grief — or “bereavement,” in HR-speak. Those that do have policies often find they’re insufficient. There are strict rules around what type of grief makes one eligible for leave. In most countries, a stillbirth doesn’t warrant bereavement leave, nor does the loss of a best friend, a favorite aunt, or a beloved nephew. In the U.S., Oregon is the only state to guarantee paid bereavement leave. Most current bereavement policies suggest that an employee should absorb their shock, plan and execute a funeral, cope in a healthy way with their loss, and then return to work within three days at full engagement.
 
 Life has its ups and downs. How we help people through difficulties times is a real test of leadership and this post is full of helpful ideas and advice on how to do that.
+
+---
+
+## Listening is The Job
+http://boz.com/articles/listening-is-the-job.html
+> People are much better at adding channels to consume than they are about removing them, but both are equally important. There is too much information and not enough time to consume it all. Take time to assess your incoming channels, and ask yourself how likely each is to provide you with critical information. Prune channels aggressively when you find you are spending time but rarely getting value.
+
+We can get bombarded with information at work and this post is an excellent reminder that we need to spend time working out how to best manage that information.
+
