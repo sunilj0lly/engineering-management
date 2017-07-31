@@ -7,6 +7,12 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Worry is the Most Useless Emotion
+https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474
+> Most of my worry stems from feeling a lack of control over a situation. I want something to turn out a certain way. So I start to feel overwhelmed and worried when I don’t believe I have the agency to influence that outcome. Here’s the funny thing, though: We have more control than we think. We can control ourselves — our actions, reactions, decisions, and beliefs. What we can’t control are other people and external events. And if that’s the case, well, why bother worrying about them? Let’s choose to focus on the former: The things we can control.
+
+Falling into patterns of worrying doesn't achieve anything. In fact, it usually has the opposite effect of causing stress and confusing thoughts and conversations. This post talks about how to identify the cause of the worry and turn it into something useful.
+
 ### Basecamp Employee Handbook
 https://github.com/basecamp/handbook
 > For over 10 years, we didn’t have a handbook. In those 10 years, when a new person joined the company, they were expected to figure things out for themselves. But when we grew from a company of 10, 20, 30 employees to a company of over 50, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and their first weeks or even months on the job were stressful because of it... This handbook also offers us an opportunity to clarify who we actually are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. Making the company our best product is a guiding principle, but we can’t easily improve what we haven’t articulated.
@@ -63,7 +69,7 @@ We can get bombarded with information at work and this post is an excellent remi
 
 ---
 
-### Reducing hours by focusing your job
+### Reducing Hours by Focusing Your Job
 https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job
 >To achieve the same amount of work in less time, we have to make sure that we’re all working on the right things and that everyone is clear on their part in our combined success ... One of the biggest challenges is that job descriptions are really vague, and don’t help someone clearly identify what work they need to do—like actual tasks they are expected to accomplish. And even if you’ve defined it clearly, roles change as the needs of a business change.
 
