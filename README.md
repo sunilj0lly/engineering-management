@@ -7,11 +7,21 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Average Manager vs. Great Manager
+https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d
+> Explained in 10 sketches
+
+These 10 sketches are amazing and explain how to be a great manager better than many books can.
+
+---
+
 ### Worry is the Most Useless Emotion
 https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474
 > Most of my worry stems from feeling a lack of control over a situation. I want something to turn out a certain way. So I start to feel overwhelmed and worried when I don’t believe I have the agency to influence that outcome. Here’s the funny thing, though: We have more control than we think. We can control ourselves — our actions, reactions, decisions, and beliefs. What we can’t control are other people and external events. And if that’s the case, well, why bother worrying about them? Let’s choose to focus on the former: The things we can control.
 
 Falling into patterns of worrying doesn't achieve anything. In fact, it usually has the opposite effect of causing stress and confusing thoughts and conversations. This post talks about how to identify the cause of the worry and turn it into something useful.
+
+---
 
 ### Basecamp Employee Handbook
 https://github.com/basecamp/handbook
