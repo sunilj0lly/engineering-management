@@ -11,7 +11,7 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d
 > Explained in 10 sketches
 
-These 10 sketches are amazing and explain how to be a great manager better than many books can.
+These ten amazing sketches explain how to be a great manager better than many books can.
 
 ---
 
