@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### What Google Learned From Its Quest to Build the Perfect Team
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+> As the researchers studied the groups, however, they noticed two behaviors that all the good teams generally shared. First, on the good teams, members spoke in roughly the same proportion ... Second, the good teams ... were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues. 
+
+If you ever needed any evidence that a successful team is more than just hiring the most clever people, here it is. 
+
+---
+
 ### Atlassian Boosted Its Female Technical Hires By 80% — Here's How
 http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/
 > Organizations that explicitly label themselves as meritocratic (or, you know, talk about how they are all the time) end up pretty dramatically favoring men when it comes to hiring, promotions and raises. Researchers believe this happens because managers at these companies perceive themselves as more impartial, and are therefore less self-aware and less likely to root out and bust their biases.
