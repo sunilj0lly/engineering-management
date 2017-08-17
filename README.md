@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Atlassian Boosted Its Female Technical Hires By 80% — Here's How
+http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/
+> Organizations that explicitly label themselves as meritocratic (or, you know, talk about how they are all the time) end up pretty dramatically favoring men when it comes to hiring, promotions and raises. Researchers believe this happens because managers at these companies perceive themselves as more impartial, and are therefore less self-aware and less likely to root out and bust their biases.
+
+It sounds like Atlassian are making great strides to a more gender equal workforce. There's a lot to be learned from this article.
+
+---
+
 ### Average Manager vs. Great Manager
 https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d
 > Explained in 10 sketches
