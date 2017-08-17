@@ -6,6 +6,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### On Being a Bad Manager
+https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
+> We're bad at most things by default. The only way to overcome the deficit is with the right kind of practice.
+We can practice badly and get over small humps, but if really want to break through from bad to good — or to great — we have to put in deliberate, focused practice ... With some things this is straightforward. Want to get better at a sport? There are clearly documented methods and approaches to practice ... [but] how do you even practice management?
+
+This is a brain dump from Jason Fried on why bad managers are easy to come by. Understanding the pitfalls and the difficulties around improving is a great start to becoming a better manager.
+
+---
 
 ### What Google Learned From Its Quest to Build the Perfect Team
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
