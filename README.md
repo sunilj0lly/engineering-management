@@ -6,6 +6,23 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+
+### The Dangers of Measuring Performance
+https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df
+> One of the earliest critics of measuring individual performance was W. Edwards Deming ... He was emphatic that the quality of output of any production system was due, overwhelmingly, to the configuration and organization of that system, rather than any individual worker’s performance. Thus it was inappropriate, thought Deming, to reward or punish individual workers for performance.
+
+Excellent description of the value of team work over individual performance with a bit of management history thrown in to give it context.
+
+---
+
+### Team-Based Rewards Structures and Their Impact on Team Trust
+https://www.sesp.northwestern.edu/masters-learning-and-organizational-change/knowledge-lens/stories/2011/team-based-rewards.html
+> Trust is a critical ingredient to ensuring a healthy team dynamic ... Team trust can be influenced by a variety of factors, including the structures organizations put in place to reward their employees. An analysis of team-based rewards [shows that] while they can be highly effective when implemented correctly, team-based rewards can also be a trigger for team trust challenges.
+
+High functioning teams thrive on being assessed for their team output, but where there are trust issues this article lays out some research that can show a negative effect happening.
+
+---
+
 ### On Being a Bad Manager
 https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
 > We're bad at most things by default. The only way to overcome the deficit is with the right kind of practice.
