@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Engineering Personas
+https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
+> Mental models can help us make decisions in complex situations. Choosing whom to hire is among the most complex situations that a manager faces. I created the Engineering Personas (EP) model as a framework to think about the type of talent that I want on a software engineering team ... If I find myself in a position where I want to change the behavior of someone reporting to me, I probably have the wrong person in that role. As a manager, I don’t want to change behavior, and I accept that it is impossible to change someone’s personality. I can’t even change what kinds of things motivate a person. At most, I can encourage or discourage someone’s existing motivation ... It’s very important then to hire people who already have the behavioral habits and motivation that a team needs. 
+
+This engineering persona model is a way to simplify your understanding of the make up of a team and have easier discussions around how to grow or change that team.
+
+---
+
 ### The Dangers of Measuring Performance
 https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df
 > One of the earliest critics of measuring individual performance was W. Edwards Deming ... He was emphatic that the quality of output of any production system was due, overwhelmingly, to the configuration and organization of that system, rather than any individual worker’s performance. Thus it was inappropriate, thought Deming, to reward or punish individual workers for performance.
