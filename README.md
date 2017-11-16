@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### The One Thing Every Software Engineer Should Know
+https://blog.codinghorror.com/the-one-thing-every-software-engineer-should-know/
+> OK, you're a genius programmer who can code circles around everyone else. But you may never ship any of your code for reasons that you don't control. That's an illusion. You can control when, how, and where your code ships. You probably spent too much time building your code and not enough time as an advocate of your code. Did you explain to people what your code does, why it's cool and important? Did you offer reasons why your code is going to make their lives better, at least in some small way? Did you make it easy for people to find and use your code?
+
+This article really opened my eyes to value of being able to communicate the value of your code and coding ideas.
+
+---
+
 ### Conflict Resolution
 https://www.mindtools.com/pages/article/newLDR_81.htm
 > When conflict arises, it's easy for people to get entrenched in their positions and for tempers to flare, voices to rise, and body language to become defensive or aggressive. You can avoid all of this by using the Interest-Based Relational (IBR) approach ... The approach is based on the idea that your role as a manager is not simply to resolve conflict but to ensure that team members feel respected and understood, and that you appreciate their differences. In essence, it helps you to manage conflict in a civil and "grown up" way.
