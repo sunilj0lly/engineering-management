@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### The Curious Transition to Becoming an Engineering Manager
+https://blog.gitprime.com/transition-to-engineering-manager/
+> As an engineer, you are used to your work being more or less directly proportional to its impact. You write code, it advances a product’s development. You don’t write code, and it doesn’t. In management, however, the relationship between your work and its results is much more nuanced.
+
+For those struggling with the change to management, this article has a number of astute observations.
+
+---
 ### The New Science of Building Great Teams
 https://hbr.org/2012/04/the-new-science-of-building-great-teams
 > When we set out to document the behavior of teams that “click,” we noticed we could sense a buzz in a team even if we didn’t understand what the members were talking about. That suggested that the key to high performance lay not in the content of a team’s discussions but in the manner in which it was communicating. 
