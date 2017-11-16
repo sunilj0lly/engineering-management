@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### The Subtle Art of Delegation
+https://medium.com/swlh/the-art-of-delegating-great-people-55cf1b4b752f
+> I reflected on this with a more experienced mentor. The manager had done what I told them to do. Yet, here I was — frustrated, knowing that somehow the way I delegated wasn't working out for me. Then my mentor gave me some wise advice: "Delegate problems, not tasks"
+
+Letting go and delegating out work is hard, but essential. Not only does this article give you great advice about delegation, but it also reinforces the reasons you should be delegating.
+
+---
 
 ### The One Thing Every Software Engineer Should Know
 https://blog.codinghorror.com/the-one-thing-every-software-engineer-should-know/
