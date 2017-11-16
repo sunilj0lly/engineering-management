@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### The Best Career Advice I've Received
+https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/
+> Don't be a short-order cook, Self-promote, It's about people, None of this matters, Moving from "how?" to "what?", Act like you’re in charge, Let them win.
+
+The author lays out a load of invaluable advice that he's received over his career. The advice is concise and I've passed on a few of these already.
+
+---
+
 ### The Power of Anti Goals
 https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c
 > ... we decided to figure out how we could make our days consistently more enjoyable. To get there, we used a little trick that we learned from Warren Buffet's business partner, Charlie Munger, who is fond of saying "tell me where I’m going to die, so I’ll never go there." ... He’s talking about inversion, the idea that problems are often best solved when they are reversed. That it’s often easier to think about what you don’t want than what you do 
