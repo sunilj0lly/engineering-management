@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### Veteran CTO (with Multiple Successful Exits) Answers Your Top Startup-Building Questions
+http://firstround.com/review/veteran-cto-with-20-years-experience-answers-your-top-startup-building-questions/
+> [Ajmal] has grown teams from tiny to gigantic across 7 companies. He did it at TenMarks ... until it was acquired by Amazon; at Posterous before it was snapped up by Twitter; and at Homestead before it joined Intuit — and more still. [Here's] Ajmal's AMA (questions submitted by a number of engineering leaders in our portfolio) and all of the advice he offered in response to the 12 toughest questions that we haven’t just heard here, but from many founders and technical leaders for years.
+
+So much great information in here that it made my brain hurt trying to read it in one go.
+
+---
 ### Speed as a Habit
 http://firstround.com/review/speed-as-a-habit/
 > The process of making and remaking decisions wastes an insane amount of time at companies. The key takeaway: WHEN a decision is made is much more important than WHAT decision is made. If, by way of habit, you consistently begin every decision-making process by considering how much time and effort that decision is worth, who needs to have input, and when you’ll have an answer, you'll have developed the first important muscle for speed.
