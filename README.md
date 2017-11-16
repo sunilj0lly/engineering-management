@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### The Power of Anti Goals
+https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c
+> ... we decided to figure out how we could make our days consistently more enjoyable. To get there, we used a little trick that we learned from Warren Buffet's business partner, Charlie Munger, who is fond of saying "tell me where I’m going to die, so I’ll never go there." ... He’s talking about inversion, the idea that problems are often best solved when they are reversed. That it’s often easier to think about what you don’t want than what you do 
+
+I've found the "anti-goal" a useful approach when thinking about where I actually want to head. It sounds a bit negative, but ultimately the outcome is a positive one.
+
+---
+
 ### Engineering Personas
 https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
 > Mental models can help us make decisions in complex situations. Choosing whom to hire is among the most complex situations that a manager faces. I created the Engineering Personas (EP) model as a framework to think about the type of talent that I want on a software engineering team ... If I find myself in a position where I want to change the behavior of someone reporting to me, I probably have the wrong person in that role. As a manager, I don’t want to change behavior, and I accept that it is impossible to change someone’s personality. I can’t even change what kinds of things motivate a person. At most, I can encourage or discourage someone’s existing motivation ... It’s very important then to hire people who already have the behavioral habits and motivation that a team needs. 
