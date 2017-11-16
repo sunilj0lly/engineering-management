@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### The New Science of Building Great Teams
+https://hbr.org/2012/04/the-new-science-of-building-great-teams
+> When we set out to document the behavior of teams that “click,” we noticed we could sense a buzz in a team even if we didn’t understand what the members were talking about. That suggested that the key to high performance lay not in the content of a team’s discussions but in the manner in which it was communicating. 
+
+Excellent research by MIT about how the quality of social interactions in a team is a clear indicator of their performance.
+
+---
 ### The Subtle Art of Delegation
 https://medium.com/swlh/the-art-of-delegating-great-people-55cf1b4b752f
 > I reflected on this with a more experienced mentor. The manager had done what I told them to do. Yet, here I was — frustrated, knowing that somehow the way I delegated wasn't working out for me. Then my mentor gave me some wise advice: "Delegate problems, not tasks"
