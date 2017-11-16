@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### How Google Sold Its Engineers on Management
+https://hbr.org/2013/12/how-google-sold-its-engineers-on-management
+> Do managers matter? To find the answer, Google launched Project Oxygen, a multiyear research initiative. It has since grown into a comprehensive program that measures key management behaviors and cultivates them through communication and training. By November 2012, employees had widely adopted the program—and the company had shown statistically significant improvements in multiple areas of managerial effectiveness and performance.
+
+Excellent research from Google on what makes a great manager. They've identified and measured the impact of 8 key factors that make a great manager.
+
+---
 ### Veteran CTO (with Multiple Successful Exits) Answers Your Top Startup-Building Questions
 http://firstround.com/review/veteran-cto-with-20-years-experience-answers-your-top-startup-building-questions/
 > [Ajmal] has grown teams from tiny to gigantic across 7 companies. He did it at TenMarks ... until it was acquired by Amazon; at Posterous before it was snapped up by Twitter; and at Homestead before it joined Intuit — and more still. [Here's] Ajmal's AMA (questions submitted by a number of engineering leaders in our portfolio) and all of the advice he offered in response to the 12 toughest questions that we haven’t just heard here, but from many founders and technical leaders for years.
