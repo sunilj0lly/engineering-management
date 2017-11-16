@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### Speed as a Habit
+http://firstround.com/review/speed-as-a-habit/
+> The process of making and remaking decisions wastes an insane amount of time at companies. The key takeaway: WHEN a decision is made is much more important than WHAT decision is made. If, by way of habit, you consistently begin every decision-making process by considering how much time and effort that decision is worth, who needs to have input, and when you’ll have an answer, you'll have developed the first important muscle for speed.
+
+We've probably all worked somewhere where decisions take a long time to get made, which has a negative impact on the organisation as a whole. I like the idea this article promotes of getting into the habit of being able to make decisions fast.
+
+---
 ### The Curious Transition to Becoming an Engineering Manager
 https://blog.gitprime.com/transition-to-engineering-manager/
 > As an engineer, you are used to your work being more or less directly proportional to its impact. You write code, it advances a product’s development. You don’t write code, and it doesn’t. In management, however, the relationship between your work and its results is much more nuanced.
