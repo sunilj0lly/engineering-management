@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Conflict Resolution
+https://www.mindtools.com/pages/article/newLDR_81.htm
+> When conflict arises, it's easy for people to get entrenched in their positions and for tempers to flare, voices to rise, and body language to become defensive or aggressive. You can avoid all of this by using the Interest-Based Relational (IBR) approach ... The approach is based on the idea that your role as a manager is not simply to resolve conflict but to ensure that team members feel respected and understood, and that you appreciate their differences. In essence, it helps you to manage conflict in a civil and "grown up" way.
+
+When debates and disussions get out of hand, they have a negative impact on the team. As a manager you're in a position to help people find a way through conflict. I've used this approach and it helps cut to the core of the issue while ensuring people feel respected.
+
+---
+
 ### The Best Career Advice I've Received
 https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/
 > Don't be a short-order cook, Self-promote, It's about people, None of this matters, Moving from "how?" to "what?", Act like you’re in charge, Let them win.
@@ -17,7 +25,7 @@ The author lays out a load of invaluable advice that he's received over his care
 
 ### The Power of Anti Goals
 https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c
-> ... we decided to figure out how we could make our days consistently more enjoyable. To get there, we used a little trick that we learned from Warren Buffet's business partner, Charlie Munger, who is fond of saying "tell me where I’m going to die, so I’ll never go there." ... He’s talking about inversion, the idea that problems are often best solved when they are reversed. That it’s often easier to think about what you don’t want than what you do 
+> ... we decided to figure out how we could make our days consistently more enjoyable. To get there, we used a little trick that we learned from Warren Buffet's business partner, Charlie Munger, who is fond of saying "tell me where I’m going to die, so I'll never go there." ... He’s talking about inversion, the idea that problems are often best solved when they are reversed. That it’s often easier to think about what you don’t want than what you do 
 
 I've found the "anti-goal" a useful approach when thinking about where I actually want to head. It sounds a bit negative, but ultimately the outcome is a positive one.
 
