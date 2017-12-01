@@ -1,9 +1,15 @@
-# Awesome leadership
+# Awesome software management
 This is a collection of articles and posts related to management in software development.
 
 A lot of these links were discovered via the excellent [Software Lead Weekly](http://softwareleadweekly.com/) weekly email, which I highly recommend signing up to.
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
+
+---
+### This Is What Impactful Engineering Leadership Looks Like
+> To develop a long-term relationship with an engineer, you have to learn enough about them to provide a framework to think through their career growth together,” she says. “You want them to articulate 1) the skills they want to improve, 2) the technical and non-technical experiences they want to have, and 3) how they want to increase the scope of their impact at the company.
+
+Some excellent observations and advice around the importance of day to day goals and long term (yearly) goals for developers.
 
 ---
 ### How Google Sold Its Engineers on Management
