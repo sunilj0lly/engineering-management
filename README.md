@@ -5,6 +5,12 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### The Six Styles of Leadership
+https://intenseminimalism.com/2015/the-six-styles-of-leadership/
+> According to Daniel Goleman there are six styles of leadership ... each style fits a different situation [and] a good leader needs to be able to switch them when the context requires that. A leadership style is thus a tool, not personality trait.
+
+Different situations require different styles of management. As a manager/leader, being able to switch between styles naturally is an important skill to maximise your potential in each situation.
+
 ### How to Control Your Emotions During a Difficult Conversation
 https://hbr.org/2017/12/how-to-control-your-emotions-during-a-difficult-conversation
 > If your body goes into “fight or flight” mode or what Dan Goleman called “amygdala hijack,” you may lose access to the prefrontal cortex, the part of your brain responsible for rational thinking. And making rational decisions is precisely what you need to do in a difficult conversation. 
