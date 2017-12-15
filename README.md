@@ -5,8 +5,15 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### How to Control Your Emotions During a Difficult Conversation
+https://hbr.org/2017/12/how-to-control-your-emotions-during-a-difficult-conversation
+> If your body goes into “fight or flight” mode or what Dan Goleman called “amygdala hijack,” you may lose access to the prefrontal cortex, the part of your brain responsible for rational thinking. And making rational decisions is precisely what you need to do in a difficult conversation. 
+
+We've all been there. You're in a conversation and things get heated and you can no longer express your point or think clearly. This article has a few tips around breaking out of that state and trying to get back to rational thought.
+
 ---
 ### This Is What Impactful Engineering Leadership Looks Like
+http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/
 > To develop a long-term relationship with an engineer, you have to learn enough about them to provide a framework to think through their career growth together,” she says. “You want them to articulate 1) the skills they want to improve, 2) the technical and non-technical experiences they want to have, and 3) how they want to increase the scope of their impact at the company.
 
 Some excellent observations and advice around the importance of day to day goals and long term (yearly) goals for developers.
