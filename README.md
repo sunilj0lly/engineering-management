@@ -5,6 +5,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### Radical Candor — The Surprising Secret to Being a Good Boss
+http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/
+> Radical candor, then, results from a combination of caring personally and challenging directly. But what does it look like in practice? 
+
+We all know that honesty is the best policy, but this article talks about how having a strong personal relationship enables that honesty to be received positively.
+
+---
+
 ### From a Group of Individuals to a Performing Team: Navigating the Tuckman’s Model
 https://leadersyndrome.wordpress.com/2013/12/22/from-a-group-of-individuals-to-a-performing-team-navigating-the-tuckmans-model/
 > Tuckman’s generic model of group development (proposed in 1965) suggests that, for a team to grow from a group of individuals to a performing team, 4 stages are necessary and inevitable: forming, storming, norming and performing ... Being able to identify the current maturity stage of your teams will help you to deploy the relevant approach and strategies to develop them to the next stage till they reach a maximal performance level.
