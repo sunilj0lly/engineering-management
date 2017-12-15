@@ -5,6 +5,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### Kill The Elephants In The Room Before They Kill You
+https://medium.com/positiveslope/kill-the-elephants-in-the-room-before-they-kill-you-9ccfbcc429fb
+> A common mistake I observe in leaders of teams big and small is to aspire for peace as a default. You should be challenging peace as a default. Create an environment where people can withstand a fight and engage in friction as it arises.
+
+Great advice here, with the caveat that the team needs to have the right level of psychological safety for everyone to contribute freely without negative effects from disagreements coming up.
+
+---
+
 ### Radical Candor — The Surprising Secret to Being a Good Boss
 http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/
 > Radical candor, then, results from a combination of caring personally and challenging directly. But what does it look like in practice? 
