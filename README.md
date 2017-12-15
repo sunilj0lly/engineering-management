@@ -5,11 +5,21 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### From a Group of Individuals to a Performing Team: Navigating the Tuckman’s Model
+https://leadersyndrome.wordpress.com/2013/12/22/from-a-group-of-individuals-to-a-performing-team-navigating-the-tuckmans-model/
+> Tuckman’s generic model of group development (proposed in 1965) suggests that, for a team to grow from a group of individuals to a performing team, 4 stages are necessary and inevitable: forming, storming, norming and performing ... Being able to identify the current maturity stage of your teams will help you to deploy the relevant approach and strategies to develop them to the next stage till they reach a maximal performance level.
+
+You're probably familiar with the four stages of team development, but this article delves further with recommendations on moving on through each stage to performing team.
+
+---
+
 ### The Six Styles of Leadership
 https://intenseminimalism.com/2015/the-six-styles-of-leadership/
 > According to Daniel Goleman there are six styles of leadership ... each style fits a different situation [and] a good leader needs to be able to switch them when the context requires that. A leadership style is thus a tool, not personality trait.
 
 Different situations require different styles of management. As a manager/leader, being able to switch between styles naturally is an important skill to maximise your potential in each situation.
+
+---
 
 ### How to Control Your Emotions During a Difficult Conversation
 https://hbr.org/2017/12/how-to-control-your-emotions-during-a-difficult-conversation
