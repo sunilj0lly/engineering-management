@@ -5,6 +5,15 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### Psychological Safety in Operation Teams
+https://www.usenix.org/system/files/login/articles/login_winter17_09_looney.pdf
+> Let me highlight the impact an unsafe team can have on an individual, through the eyes of an
+imaginary, capable, and enthusiastic new college graduate. 
+
+Some excellent elaborations on Google's psychological safety studies with a few examples on how to increase psychological safety in your team.
+
+---
+
 ### Kill The Elephants In The Room Before They Kill You
 https://medium.com/positiveslope/kill-the-elephants-in-the-room-before-they-kill-you-9ccfbcc429fb
 > A common mistake I observe in leaders of teams big and small is to aspire for peace as a default. You should be challenging peace as a default. Create an environment where people can withstand a fight and engage in friction as it arises.
