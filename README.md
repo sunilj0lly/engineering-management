@@ -314,8 +314,16 @@ Ever feel like you're getting bogged down in "is it Agile?" conversations that a
 
 ---
 
+### Modern Agile
+http://modernagile.org/
+> Over the past decade, innovative companies, software industry thought leaders and lean/agile pioneers have discovered simpler, sturdier, more streamlined ways to be agile. These modern approaches share a focus on producing exceptional outcomes and growing an outstanding culture. Today, it makes far more sense to bypass antiquated agility in favor of modern approaches. Modern agile methods are defined by four guiding principles ... World famous organizations like Google, Amazon, AirBnB, Etsy and others are living proof of the power of these four principles.
+
+We've learned a lot since the Agile Manifesto was published over 15 years ago. "Modern Agile" condenses those learnings into four principles that feel more applicable to modern software development than the Agile Manifesto does.
+
+---
+
 ### Comprehensive Guide to the Agile Manifesto
 https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto
 > The Twelve Principles are the guiding principles for the methodologies that are included under the title “The Agile Movement.” They describe a culture in which change is welcome, and the customer is the focus of the work.
 
-As a leader in an Agile environment, having a strong grasp of Agile principles is important if you're going to help your team develop meaningful Agile practices.
+As a leader in an Agile environment, having a strong grasp of these Agile principles is important if you're going to help your team develop meaningful Agile practices.
