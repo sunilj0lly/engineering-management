@@ -5,6 +5,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### Dynamic Reteaming
+https://www.youtube.com/watch?v=0weumS06PGY
+> Who says you need "stable" teams in order to build a successful software company? While the addition or removal of one person from a team means you have a "new team", there is a myth out there about "stable" teams. When your team compositions change it doesn't mean you're doing it wrong - it could be the secret to your success.
+
+This talk opened my eyes to the opportunities that "reteaming" can provide. It has some great examples of companies that embrace changing teams and how it has improved how they work.
+
+---
+
 ### The NoEnd Developer
 https://medium.com/@JoshuaKerievsky/the-noend-developer-f41f35603e64
 > Over the years, I’ve met lots of amazing programmers, none of whom would describe themselves as frontend or backend developers. They don’t limit themselves to any end of the stack ... They have a growth mindset about programming. (A growth mindstack?!) ... There is no end to what a NoEnd developer can do. 
