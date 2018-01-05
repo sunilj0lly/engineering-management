@@ -5,6 +5,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### The NoEnd Developer
+https://medium.com/@JoshuaKerievsky/the-noend-developer-f41f35603e64
+> Over the years, I’ve met lots of amazing programmers, none of whom would describe themselves as frontend or backend developers. They don’t limit themselves to any end of the stack ... They have a growth mindset about programming. (A growth mindstack?!) ... There is no end to what a NoEnd developer can do. 
+
+Developers who can turn their hand to the technologies and tools needed to deliver the software that's needed are highly valuable. This excellent article passionately explains why being a developer who is happy to continually be a novice on different technologies is the mindset that we want to encourage in our developers.
+
+---
+
 ### It's 2017 and Mental Health is Still an Issue in the Workplace.
 https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f
 > It's 2017. We are in a knowledge economy. Our jobs require us to execute at peak mental performance. When an athlete is injured they sit on the bench and recover. Let’s get rid of the idea that somehow the brain is different.
