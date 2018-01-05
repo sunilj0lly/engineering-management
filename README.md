@@ -5,6 +5,14 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+### It's 2017 and Mental Health is Still an Issue in the Workplace.
+https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f
+> It's 2017. We are in a knowledge economy. Our jobs require us to execute at peak mental performance. When an athlete is injured they sit on the bench and recover. Let’s get rid of the idea that somehow the brain is different.
+
+The author shares a story about how an email he sent that thanked an employee for visibly taking a mental health day when needed was retweeted over 16,000 times. It highlights how uncommon it still is to take mental health days and how far the industry needs to go.
+
+---
+
 ### Psychological Safety in Operation Teams
 https://www.usenix.org/system/files/login/articles/login_winter17_09_looney.pdf
 > Let me highlight the impact an unsafe team can have on an individual, through the eyes of an
