@@ -306,6 +306,14 @@ I've seen a few competency frameworks in my career, but this one from Vend has a
 
 ---
 
+### 2018 Goal: Less Agile and Scrum Talk
+https://medium.com/@johnpcutler/2018-goal-less-agile-and-scrum-talk-6cf758b8d764
+> Mentioning Agile rarely moves the conversation forward, especially with folks outside of the Agile-nerd bubble ... Any Google search yields the fact that many of the debates on Agile and Scrum are almost a decade old. They’re not getting resolved…the confusion lingers. I’d argue they are getting worse as “Agile” gets older, gets marketed/sold, and becomes the default ... Agile encompasses a number of valuable patterns, practices, and perspectives. It also comes with a good deal of baggage. Modern Agile as it is purposefully free of specific practices, and has applicability for the whole organization.
+
+Ever feel like you're getting bogged down in "is it Agile?" conversations that add little value? This blog post eloquently sums up the challenges around discussing Agile development and how a focus on the principles, particularly around "Modern Agile" helps moves the conversation fowards.
+
+---
+
 ### Comprehensive Guide to the Agile Manifesto
 https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto
 > The Twelve Principles are the guiding principles for the methodologies that are included under the title “The Agile Movement.” They describe a culture in which change is welcome, and the customer is the focus of the work.
