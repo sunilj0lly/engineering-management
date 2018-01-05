@@ -5,6 +5,16 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
+---
+
+### Taking Back "Software Engineering"
+https://www.youtube.com/watch?v=zwSNjVTF168&feature=youtu.be
+> Would you fly in a plane designed by a craftsman or would you prefer your aircraft to be designed by engineers? Engineering is the application of iterative, empirical, practical science to real-world problems ... The term "Software Engineering" has gained a bad reputation ... In recent years we have discovered what really works in software development. Continuous Delivery is about the application of an iterative, practical, empirical, maybe even science-based approach to solving problems in software development. Is this a form of software engineering? Engineering is different in different disciplines. Maybe it is time for us to begin thinking about retrieving the term "Software Engineering". Maybe it is time to define what our "Engineering" discipline should entail.
+
+What is software engineering? This talk makes the case for software engineering being about a scientific approach to problem solving based on experimentation and learning. There's a great story about how NASA figured out how to get a rocket to the moon that sums up the iterative scientific approach well.
+
+---
+
 ### Dynamic Reteaming
 https://www.youtube.com/watch?v=0weumS06PGY
 > Who says you need "stable" teams in order to build a successful software company? While the addition or removal of one person from a team means you have a "new team", there is a myth out there about "stable" teams. When your team compositions change it doesn't mean you're doing it wrong - it could be the secret to your success.
