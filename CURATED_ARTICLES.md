@@ -1,4 +1,4 @@
-# Awesome software management
+# Awesome engineering management
 This is a collection of articles and posts related to management in software development.
 
 A lot of these links were discovered via the excellent [Software Lead Weekly](http://softwareleadweekly.com/) weekly email, which I highly recommend signing up to.
