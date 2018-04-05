@@ -52,7 +52,13 @@ We’ll do this every fortnight for thirty minutes.
 
 If the weather is good, I like to go for a walk along the waterfront. This makes the catch up less formal, gets the brain refreshed and gets us away from the office to help get perspective on things. 
 
-This catch up is primarily for you to bring issues to discuss with me. If you haven’t got anything you want to discuss, I’ll aim to have a few things that I want to talk about. 
+This is a chance for me to understand how you're feeling at the moment. It's also a chance for us to give each other some feedback.
+
+We'll discuss these questions:
+1. What are you looking forward to?
+1. What aren't you looking forward to?
+1. Do you have any feedback for me?
+1. Do I have any feedback for you?
 
 Please don’t wait for these meetings to discuss something with me if you need to. Tap me on the shoulder or Slack me if you need me. I can always make time for a chat.
 
