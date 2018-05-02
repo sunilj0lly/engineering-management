@@ -6,11 +6,69 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+
+### “Writing is Thinking”—an annotated twitter thread
+https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade?gi=1fb8168cf2b5
+> It is really incredible the amount of pushback I see from companies, startups to big, about writing. In particular around the notion that writing is the antithesis of agile. Writing ossifies and cements decision or plans that should change, it is said. My view is that agility comes from planning. Without plans, activities are just brownian motion. And you can’t have plans, especially shared plans, without writing.
+
+I'm a huge fan of writing things down and I don't feel it happens enough. I enjoy writing, but I also find it is an excellent way to understand what you're thinking more clearly and to have clear discussions around that. It's also a skill that takes time to work on and needs practice.
+
+---
+
+### The 'Coffee Shop Effect': Why Changing Your Location Boosts Your Productivity
+https://blog.trello.com/coffee-shop-effect-boosts-productivity
+> By now, I’m embarrassingly familiar with the post-lunch slump that strikes at least once during my workweek... So, what do I do in those moments when I find myself feeling totally zapped of motivation? I pack up my laptop and head to a coffee shop with reliable WiFi.
+
+This article convinced me that a change of scenery is an effective way to refocus yourself, particularly if you've got a location that you associate with productive habits.
+
+---
+
+### 101 Questions to Ask in One on Ones
+https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
+> This list will help you make the most of each meeting and have a quick reference when you feel your questions may be getting stale or you have a few minutes left in a one on one.
+
+It's a big list, but I've found a few of these questions have been really useful at opening up conversation in my catch ups.
+
+---
+
+### Manager Energy Drain
+http://larahogan.me/blog/manager-energy-drain/
+>  Color code your calendar based on the kind of brain you use in each event.
+
+I started colour coding my calendar and suddenly realised that I was context switching all the time. It has helped to group activities more closely but also identify where I need to take breaks to help my brain have a better chance at switching contexts more effectively.
+
+---
+
+### 12 Statistics About Women in Tech That Show How Big the Gender Gap Truly Is
+http://observer.com/2017/06/women-in-tech-statistics/
+> Whether you’re looking at startup founders, investors or people in computing and technical roles, women often find themselves in rooms full of men... To spread awareness, we’ve compiled some stats that show just how bad the gender gap in tech really is.
+
+As a manager, you have the power to influence decisions that can increase diversity in our industry. The stats in this article show the gap between men and women in our industry very clearly.
+
+---
+
 ### What Is The Expectation Out Of Each Software Engineering Level At Facebook?
 https://www.forbes.com/sites/quora/2013/12/09/what-is-the-expectation-out-of-each-software-engineering-level-at-facebook/#255a19083bce
 
 A simple explanation of responsibilities of engineers at different levels at Facebook. I like how the author presents examples of what behaviours you might expect to see from people at each level.
 
+---
+
+### A Counterintuitive Way to Increase Diversity in Tech
+https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50
+> Ok, so what CAN you do to help improve diversity in tech? Glad you asked! It’s simple: get into management.
+
+Excellent article that talks about how if you want the industry to be more diverse you should start by looking at what you can change within your circle of influence. Becoming a manager is a great way to increase that influence.
+
+---
+
+### It’s Not Really A Technology Problem
+https://medium.com/startup-patterns/its-not-really-a-technology-problem-5b534a642bb0
+> The quality of a system is a reflection of the quality of the relationships between the people that build that system... If the key to producing a good product is to have a good culture producing it, then the key to producing a good culture is to design or transform your organization with the right processes and incentives that will produce that culture. 
+
+Anyone who has worked on a team with talented people who struggle to produce high quality technical outcomes will find that this article resonates with them.
+
+---
 
 ### How To Win An Argument
 https://www.fs.blog/2014/06/winning-an-argument/
@@ -18,6 +76,7 @@ https://www.fs.blog/2014/06/winning-an-argument/
 
 The title of the article sounds like manipulation more than team work, but the idea of asking people to delve deeper into their ideas so to gain new knowledge or to understand how deeply they've considered their idea is a great approach to moving discussions forward.
 
+---
 
 ### How to fail as a new engineering manager
 https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
@@ -25,11 +84,15 @@ https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
 
 This flips the conversation around and talks about what not to do. The conversation around whether you should code is particularly interesting.
 
+---
+
 ### Who I want to work for
 https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202
 > I work at GitHub, as a senior engineer. I’m not looking for a job. But I have been thinking about leadership and what I’ve appreciated most from various bosses over the years... I started noting who I want to work for, in terms of an ideal leader.
 
 So great to see a clear description of what someone wants from their ideal leader. The writer sets the bar high, but they seem like points all well worth aiming for.
+
+---
 
 ### Track and Facilitate Your Engineers’ Flow States In This Simple Way
 http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/
@@ -37,11 +100,15 @@ http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-
 
 I've tried this exercise a few times to understand better if people in my team are challenged enough or too much. It has lead to some interesting conversations around the type of work people have been doing, well worth a try in my opinion.
 
+---
+
 ### Quantifying Personal Retention Impact: A Mathematical Thought Exercise
 http://royrapoport.blogspot.co.nz/2015/01/quantifying-personal-retention-impact.html?m=1
 > So for a given person with whom you work, imagine they've left the company, and you're considering leaving the company to go to another company... What's your response, on a -3 to +3 scale?
 
 An interesting thought experiement to assess how much you value someone that you work with.
+
+---
 
 ### The 5 ways to improve your self-awareness as a leader
 https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00
@@ -49,11 +116,15 @@ https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-
 
 As a manager you'll probably find yourself asking "Is it just me?". It could well be! Here are some approaches to trying to identify your own mental state and biases.
 
+---
+
 ### Share your Manager README
 https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/
 > As a manager, on-boarding is both tough and really important whether you’re joining a team or they’re joining yours... With that in mind, I wrote a document that I share with new reports. I’ve shared this with people I’ve hired and with people whose team I’ve joined. In either case, I think it paints a picture of who I am and how I want to interact with them. I iterate on this with every new person I send it to, and I encourage discussion and feedback.
 
 This article made me write my own [Manager Readme](README.md) which helped me and my team understand my role as a manager better.
+
+---
 
 ### Taking Back "Software Engineering"
 https://www.youtube.com/watch?v=zwSNjVTF168&feature=youtu.be
