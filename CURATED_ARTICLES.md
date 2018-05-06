@@ -7,6 +7,22 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### The Thinking Behind Toyota's Hiring Process
+https://www.lean.org/LeanPost/Posting.cfm?LeanPostId=145
+> "What did you have to go through to get hired at Toyota?" There were 5 competencies, as I learned later, that Toyota looked for in people. These are also the competencies I recommend you look for if you want to develop a more robust hiring process.
+
+I like the idea of looking for these competencies when hiring. It's quite challenging to interview for something like "listening", but as a skill in a team it's highly important, so it makes sense to cover this an interview.
+
+---
+
+### Learning to Teach the Soft Side of Lean
+https://www.lean.org/LeanPost/Posting.cfm?LeanPostId=879
+> We realized that we had to re-group. It didn't mean we gave up; we just adopted a different approach. We watched, we learned, we listened, and worked hard to understand their viewpoints before discussing our own. We tried to build mutual trust and respect in our relationship with a group of individuals who didn't see the gap in the same way we did. 
+
+Excellent article that talks about the importance of "nemawashi" (consensus/buy-in) and how trying to promote your view before gaining "nemawashi" can lead to problems down the line.
+
+---
+
 ### “Writing is Thinking”—an annotated twitter thread
 https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade?gi=1fb8168cf2b5
 > It is really incredible the amount of pushback I see from companies, startups to big, about writing. In particular around the notion that writing is the antithesis of agile. Writing ossifies and cements decision or plans that should change, it is said. My view is that agility comes from planning. Without plans, activities are just brownian motion. And you can’t have plans, especially shared plans, without writing.
