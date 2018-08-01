@@ -47,18 +47,20 @@ I aim to take a step back in team discussions and leave the decision making to t
 My priorities are `management responsibilities > technical meetings > collaborative development > code reviews > individual development`.
 
 
-### Our 1:1 catch ups are for you to discuss anything you want
-We’ll do this every fortnight for thirty minutes.
+### Our 1:1 catch ups are to help us understand each other better
+We’ll catch up every fortnight for thirty minutes.
 
 If the weather is good, I like to go for a walk along the waterfront. This makes the catch up less formal, gets the brain refreshed and gets us away from the office to help get perspective on things. 
 
 This is a chance for me to understand how you're feeling at the moment. It's also a chance for us to give each other some feedback.
 
 We'll discuss these questions:
+1. Is there anything you want to discuss?
 1. What are you looking forward to?
 1. What aren't you looking forward to?
 1. Do you have any feedback for me?
 1. Do I have any feedback for you?
+1. Is there anything else that I want to discuss?
 
 Please don’t wait for these meetings to discuss something with me if you need to. Tap me on the shoulder or Slack me if you need me. I can always make time for a chat.
 
