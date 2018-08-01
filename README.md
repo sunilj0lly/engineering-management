@@ -47,24 +47,6 @@ I aim to take a step back in team discussions and leave the decision making to t
 My priorities are `management responsibilities > technical meetings > collaborative development > code reviews > individual development`.
 
 
-### Our 1:1 catch ups are to help us understand each other better
-We’ll catch up every fortnight for thirty minutes.
-
-If the weather is good, I like to go for a walk along the waterfront. This makes the catch up less formal, gets the brain refreshed and gets us away from the office to help get perspective on things. 
-
-This is a chance for me to understand how you're feeling at the moment. It's also a chance for us to give each other some feedback.
-
-We'll discuss these questions:
-1. Is there anything you want to discuss?
-1. What are you looking forward to?
-1. What aren't you looking forward to?
-1. Do you have any feedback for me?
-1. Do I have any feedback for you?
-1. Is there anything else that I want to discuss?
-
-Please don’t wait for these meetings to discuss something with me if you need to. Tap me on the shoulder or Slack me if you need me. I can always make time for a chat.
-
-
 ### We’ll have performance development meetings every quarter
 These are more commonly called “performance reviews”, but I call them “performance development” since they’re primarily about developing your skills and career.
 
@@ -74,11 +56,25 @@ I’ll give you suggestions for how you can build on your strengths and improve 
 
 I’ll help you to set goals based on the feedback and your own personal objectives, however ultimately responsibility for your goals and your development lies with you.
 
+In between performance development meetings, we'll dedicate a 1:1 catch up to reviewing your goals. The purpose of this is to keep a continual focus on your development and we'll adjust or set new goals as needed. I'll message you before this 1:1 so you have a chance to look over your goals beforehand. If there's anything you want to discuss urgently, then we can reschedule or try to fit both into our 1:1.
 
-### We’ll have a catch up around your goals a few weeks after that
-This is a thirty minute meeting about six weeks after your performance development meeting. 
 
-The purpose of this meeting is to keep a continual focus on your development by checking progress on your goals and adjusting or setting new goals based on what’s happened since the performance development meeting.
+### Our 1:1 catch ups are to help us understand each other better
+We’ll catch up every fortnight for thirty minutes.
+
+If the weather is good, I like to go for a walk along the waterfront. This makes the catch up less formal, gets the brain refreshed and gets us away from the office to help get perspective on things. 
+
+This is a chance for me to understand how you're feeling at the moment. It's also a chance for us to give each other some feedback.
+
+Except when we review performance development goals (see above), we'll discuss these questions:
+1. Is there anything you want to discuss?
+1. What are you looking forward to?
+1. What aren't you looking forward to?
+1. Do you have any feedback for me?
+1. Do I have any feedback for you?
+1. Is there anything else that I want to discuss?
+
+Please don’t wait for these meetings to discuss something with me if you need to. Tap me on the shoulder or Slack me if you need me. I can always make time for a chat.
 
 
 ### Troubleshooting
