@@ -7,6 +7,14 @@ It was also inspired by [Peter Cook's vast library of tech leading articles](htt
 
 ---
 
+### Applying “systems thinking” to turbocharge your leadership effectiveness
+https://blog.gitprime.com/systems-thinking-approach-to-leading-engineering-teams/
+> "An engineering team is, at its core, a system — similar to any other team or group in an enterprise ... If we can understand how the system works — and how we play a role in it — we can be more effective and proactive within it. And as a leader, it helps to think about inputs and outputs — the information and incentives going into a team will have a great impact on the work they produce."
+
+Excellent explaination of the role of a manager in fostering psychological safety for your team and a collaborative culture.
+
+---
+
 ### The Thinking Behind Toyota's Hiring Process
 https://www.lean.org/LeanPost/Posting.cfm?LeanPostId=145
 > "What did you have to go through to get hired at Toyota?" There were 5 competencies, as I learned later, that Toyota looked for in people. These are also the competencies I recommend you look for if you want to develop a more robust hiring process.
