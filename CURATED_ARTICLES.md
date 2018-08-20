@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### How This Head of Engineering Boosted Transparency at Instagram
+http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram
+> In addition to empowering everyone to make the best decisions, cultivating transparency can help solve a lot of the other problems that startups typically run into, from building trust and reducing politics to allowing people to be heard and maintaining velocity, all while expanding rapidly.
+
+What is transparency? How do you make decisions clearly and openly? Interesting insights from Instagram and how the Head of Engineering increased transparency scores substantially.
+
+---
 
 ### Applying “systems thinking” to turbocharge your leadership effectiveness
 https://blog.gitprime.com/systems-thinking-approach-to-leading-engineering-teams/
