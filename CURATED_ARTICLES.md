@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### Engineering decision model: messy opinions, neat ownership
+https://hackernoon.com/engineering-decision-model-messy-opinions-neat-ownership-bb5ad91d574
+> It’s impossible for a single individual to be most right all the time for all pieces of new work. This is one reason that it doesn’t matter if you believe that an initial decision is wrong: no matter at what level of experience you are, if the owner still maintains their decision after listening to your concerns, the decision is likely less wrong than you think ... Another reason that it matters less if an initial decision is later found to have been wrong, is that software engineering is iterative in nature. As long as the business value is clear enough from the start, and that people make sure to constantly reassess where a project is going in order to course-correct, the cost of inaction is often greater than the cost of a wrong implementation
+
+Long but information packed article on approaches to decision making and how you can make them more clearly, faster and with more buy in from stakeholders.
+
+---
 ### How This Head of Engineering Boosted Transparency at Instagram
 http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram
 > In addition to empowering everyone to make the best decisions, cultivating transparency can help solve a lot of the other problems that startups typically run into, from building trust and reducing politics to allowing people to be heard and maintaining velocity, all while expanding rapidly.
