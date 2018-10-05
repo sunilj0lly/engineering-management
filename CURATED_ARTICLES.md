@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### On Being A Senior Engineer
+https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+> I might first argue that senior engineers in web development and operations have the same characteristics as senior engineers in other fields of engineering (mechanical, electrical, chemical, etc.) in which case The Unwritten Laws of Engineering are applicable. Again, if you haven’t read this, please go do so. It was originally written in 1944, published by the American Society of Mechanical Engineers.
+
+This is one of the most insightful descriptions of what behaviours a "Senior engineer" displays, with clear explanations of why those behaviours are valuable.
+
+---
 ### Engineering decision model: messy opinions, neat ownership
 https://hackernoon.com/engineering-decision-model-messy-opinions-neat-ownership-bb5ad91d574
 > It’s impossible for a single individual to be most right all the time for all pieces of new work. This is one reason that it doesn’t matter if you believe that an initial decision is wrong: no matter at what level of experience you are, if the owner still maintains their decision after listening to your concerns, the decision is likely less wrong than you think ... Another reason that it matters less if an initial decision is later found to have been wrong, is that software engineering is iterative in nature. As long as the business value is clear enough from the start, and that people make sure to constantly reassess where a project is going in order to course-correct, the cost of inaction is often greater than the cost of a wrong implementation
