@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### On Leadership and Culture
+https://hackernoon.com/on-leadership-and-culture-ca4d6f2a9bb0
+> Leaders are accountable for the culture of their group. Said another way, the cultural brokenness of a group can in almost all cases be traced directly to poor leadership, either past or current
+
+Blunt, but to the point description of a leader's role in shaping culture in a team.
+
+---
 ### On Being A Senior Engineer
 https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 > I might first argue that senior engineers in web development and operations have the same characteristics as senior engineers in other fields of engineering (mechanical, electrical, chemical, etc.) in which case The Unwritten Laws of Engineering are applicable. Again, if you haven’t read this, please go do so. It was originally written in 1944, published by the American Society of Mechanical Engineers.
