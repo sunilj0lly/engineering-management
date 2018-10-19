@@ -6,6 +6,13 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### The State of Agile Software in 2018 (transcript)
+https://martinfowler.com/articles/agile-aus-2018.html
+> A lot of agile conferences I go to don't tend to talk very much about the actual techniques of writing software ... we've got to pay attention to these technical skills ... [refactoring is] a very core technique to the whole agile way of thinking because it fits in with the whole way in which we can build software in a way that it can change easily. When I summarize agile to people, I usually say there's two main pieces to it. One, I've already talked about, the primacy of the team, and the team's choices of how they do things, but the other is our ability to change rapidly, to be able to deal with change easily.
+
+So many great quotes from this transcript of a talk by Martin Fowler (one of the people who wrote the Agile Manifesto). I particularly liked the quote above about the need for Agile development to have a technical focus and how refactoring is a key skill in that area that we need to ensure our developers have and are growing.
+
+---
 ### Sprints, marathons and root canals
 https://gojko.net/2018/08/30/sprints-marathons-root-canals.html
 > Instead of persuading stakeholders to see something that you can't even put into words, just ask them whether the product needs to be sustainable in the medium to long term ... If stakeholders expect the product to stay around, then ask for a budget to make it sustainable. Deduct that budget from the overall capacity when planning business features. That way, you can have two categories of tasks, and they will not compete. You don't have to keep sustainability tasks in the backlog or track them in the task management tool, just do them as much as the budget allows every iteration. The team will mostly know what are the next few critical improvements, they don't need to keep them in a list visible to anyone else
