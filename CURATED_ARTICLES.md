@@ -6,6 +6,20 @@ A lot of these links were discovered via the excellent [Software Lead Weekly](ht
 It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
 
 ---
+### Why Do So Many Incompetent Men Become Leaders?
+https://hbr.org/2013/08/why-do-so-many-incompetent-men
+> In my view, the main reason for the uneven management sex ratio is our inability to discern between confidence and competence. That is, because we (people in general) commonly misinterpret displays of confidence as a sign of competence, we are fooled into believing that men are better leaders than women. In other words, when it comes to leadership, the only advantage that men have over women (e.g., from Argentina to Norway and the USA to Japan) is the fact that manifestations of hubris — often masked as charisma or charm — are commonly mistaken for leadership potential, and that these occur much more frequently in men than in women.
+
+Important and clear article on a bias around seeing over confident leaders as effective leaders. This article resonated with me from my own experiences in my career.
+
+---
+### More on “Motivational Interviewing” as a Method for Workplace Change Leadership
+https://www.leanblog.org/2016/03/more-on-motivational-interviewing/
+> I saw parallels between people being addicted to food, drugs, or what have you (the reason the Motivational Interviewing method was created) and people being addicted to old behaviors in the workplace (such as blaming others, not planning, or jumping in to be the hero). I recently ran across Ron Oslin, who is an internal Lean coach at CapitalOne. He has been using the MI method and has trademarked the phrase “addicted to the status quo.” It's apt.
+
+As a manager, helping your team to adapt to change is essential. "Motivational Interviewing" sounds like a great technique to helping people understand the value in change by helping them come to the conclusions themselves.
+
+---
 ### The State of Agile Software in 2018 (transcript)
 https://martinfowler.com/articles/agile-aus-2018.html
 > A lot of agile conferences I go to don't tend to talk very much about the actual techniques of writing software ... we've got to pay attention to these technical skills ... [refactoring is] a very core technique to the whole agile way of thinking because it fits in with the whole way in which we can build software in a way that it can change easily. When I summarize agile to people, I usually say there's two main pieces to it. One, I've already talked about, the primacy of the team, and the team's choices of how they do things, but the other is our ability to change rapidly, to be able to deal with change easily.
