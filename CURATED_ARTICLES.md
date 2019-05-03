@@ -1,11 +1,51 @@
 # Awesome engineering management
 This is a collection of articles and posts related to management in software development.
 
-A lot of these links were discovered via the excellent [Software Lead Weekly](http://softwareleadweekly.com/) weekly email, which I highly recommend signing up to.
+My own articles are published at https://medium.com/@thenilsh
 
-It was also inspired by [Peter Cook's vast library of tech leading articles](https://github.com/PeterCookDev/TechLeading).
+A lot of these links were discovered via the excellent [Software Lead Weekly](http://softwareleadweekly.com/) [GitPrime](https://www.gitprime.com/engineering-impact/) and [Heartbeat](https://knowyourteam.com/blog/podcast/) newsletters. If you find this list useful, I'd highly recommend signing up for those emails.
 
 ---
+### Insights from a Reluctant Leader
+https://medium.com/google-design/insights-from-a-reluctant-leader-d513df33599e
+> While most companies are committed to improving diversity, progress has been notably slow. Why? Many executives view diversity and inclusion as the responsibility of the HR department.
+
+Managers need to be accountable for their commitment to diversity and inclusion. This wide ranging post touches many parts of this discussion and has a load of interesting insights.
+
+---
+### Twitter thread on underperformance
+https://twitter.com/clairejlew/status/1092835636258660352?s=09
+> When an employee is underperforming, the first question you should ask yourself is:  "Do they know, or do they not know?
+
+This simple question and a few follow ups are a great way to start thinking about the cause of underperformance.
+
+---
+### Twitter thread on asymmetric risk
+https://twitter.com/JamesClear/status/1054835948595433474?s=09
+> All of these brilliant people ... talk about the importance of doing things or investing in things with “asymmetric risk” (huge upside, limited downside). But I’ve never seen a list of what those things might be. Let’s create one.
+
+Another way to describe "asymmetric risk" is "What have you got to lose?". The list of ideas here is awesome.
+
+---
+### Stressed at Work? Mentoring a Colleague Could Help
+https://hbr.org/2019/03/stressed-at-work-mentoring-a-colleague-could-help
+> Our experiment results showed that people who served as mentors experienced lower levels of anxiety, and described their job as more meaningful, than those who did not mentor.
+
+A lot has been written about the career benefits of mentoring, but this article makes the case for mentoring improving so much more.
+
+---
+### The Feedback Fallacy
+https://hbr.org/2019/03/the-feedback-fallacy
+> Feedback is about telling people what we think of their performance and how they should do it better—whether they’re giving an effective presentation, leading a team, or creating a strategy. And on that, the research is clear: Telling people what we think of their performance doesn’t help them thrive and excel, and telling people how we think they should improve actually hinders learning.
+
+This article completely changed my view of giving feedback. It's a long but essential read. Instead of assuming we can make clear, unbiased assessmsents of people we manage, give feedback telling others how their actions have made you feel.
+
+---
+### This feels like going faster Vs. This actually makes us faster
+https://twitter.com/johncutlefish/status/1029757026895720449?s=09
+
+A simple table of things that we may perceive as going faster vs what really makes us faster. As managers, we can set the tone here.
+
 ### Why Do So Many Incompetent Men Become Leaders?
 https://hbr.org/2013/08/why-do-so-many-incompetent-men
 > In my view, the main reason for the uneven management sex ratio is our inability to discern between confidence and competence. That is, because we (people in general) commonly misinterpret displays of confidence as a sign of competence, we are fooled into believing that men are better leaders than women. In other words, when it comes to leadership, the only advantage that men have over women (e.g., from Argentina to Norway and the USA to Japan) is the fact that manifestations of hubris — often masked as charisma or charm — are commonly mistaken for leadership potential, and that these occur much more frequently in men than in women.
