@@ -1,3 +1,17 @@
+This README no longer maintained. I've left it here as a reference in case other people find this valuable.
+
+This was an experiment that I started in March 2018 with the goal of making my role as an engineering manager more clear.
+
+It had a few successes, notably that expressing the value I wanted to provide forced me to clearly understand that myself. Once I'd written this README I felt much more able to explain my role to my team. I also felt that new people in my team were able to onboard more easily with this document, but that's very hard to prove.
+
+Like many living documents, this didn't work so well when it came to keeping it living. I found that once people had read it once, it wasn't needed much. I tried to keep it as a guide to how various things like catch up and performance meetings would work, but it got left behind and nobody noticed.
+
+If I move to a different role or team, then I might revisit this idea in more of a "here's how I approach my role today" format, rather than a living document.
+
+
+---
+
+
 ## Sunil Jolly: Manager README
 
 ### This is a summary of my management style
